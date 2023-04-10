@@ -30,18 +30,18 @@ In order to satisfy this need, it is requested to prepare a delivery for the Con
 <img src="https://raw.githubusercontent.com/sayuriGui/F1-grandstand-simulator/main/Skid.gif">
 
 ### Increasing speed
-#### Velocity : 60 Km/h
+<h4>Velocity : 60 Km/h</h4>
 <img src="https://raw.githubusercontent.com/sayuriGui/F1-grandstand-simulator/main/60.gif">
-#### Velocity : 78 Km/h
+<h4>Velocity : 78 Km/h</h4>
 <img src="https://raw.githubusercontent.com/sayuriGui/F1-grandstand-simulator/main/78.gif">
-#### Velocity : 96 Km/h
+<h4>Velocity : 96 Km/h</h4>
 <img src="https://raw.githubusercontent.com/sayuriGui/F1-grandstand-simulator/main/96.gif">
-#### Velocity : 114 Km/h
-#### SKID
+<h4>Velocity : 114 Km/h</h4>
+<h4>SKID</h4>
 <img src="https://raw.githubusercontent.com/sayuriGui/F1-grandstand-simulator/main/114.gif">
-#### Velocity : 132 Km/h
-#### SKID
+<h4>Velocity : 132 Km/h</h4>
+<h4>SKID</h4>
 <img src="https://raw.githubusercontent.com/sayuriGui/F1-grandstand-simulator/main/132.gif">
-#### Velocity : 150 Km/h
-#### SKID
+<h4>Velocity : 150 Km/h</h4>
+<h4>SKID</h4>
 <img src="https://raw.githubusercontent.com/sayuriGui/F1-grandstand-simulator/main/150.gif">
